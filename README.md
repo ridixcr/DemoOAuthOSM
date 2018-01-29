@@ -1,6 +1,8 @@
 # DemoOAuthOSM
 OAuth OpenStreetMap Client
 
+![](https://user-images.githubusercontent.com/1646072/35531447-076d7bee-0505-11e8-9e7c-84b11362d9bb.png)
+
 ### Demo 1
 
 ```
